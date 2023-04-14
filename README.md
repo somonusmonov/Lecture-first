@@ -1,1 +1,2 @@
-# Lecture-first
+# Lecture-first 
+# JavaScript
